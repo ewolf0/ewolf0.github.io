@@ -1,0 +1,54 @@
+html, body{
+			margin:0;
+			width:100%;
+			height:100%;
+		}
+		div{
+			box-sizing: border-box;
+			float:left;
+			width:100%;
+			height:100%;
+		}
+
+		.container{
+			position:relative;
+		}
+		.bg{
+			background-image: url("../img/verbal_possibility.jpg");
+			height:100%;
+			background-position:center;
+			background-repeat:no-repeat;
+			background-size:cover;
+			position:absolute;
+			/*this will make everything I put in relative to this as long as I set as POSITION ABSOLUTE*/
+		}
+
+		.buttons{
+			position:absolute;
+		}
+
+		.left{
+			top:240px;
+			left:860px;
+		}
+
+		.right{
+			top:240px;
+			left:1000px;	
+		}
+
+		.hide{
+			opacity: 0;
+		}
+
+
+	.green{
+		cursor:url(http://i177.photobucket.com/albums/w215/PPlessure_/thicon_sparkle.gif), crosshair;
+	}
+
+	.red{
+		cursor: url(http://i587.photobucket.com/albums/ss314/TTT_Savethemole/Emoticons/sparkleaa.gif), crosshair;
+	}
+
+
+

@@ -1,0 +1,66 @@
+html body{
+	background: url(../img/background12.png) no-repeat center center fixed;
+	background-size:cover;	
+	}
+
+	div{
+		box-sizing: border-box;
+		float:left;
+		width:100%;
+		height:100%;
+	}
+
+	.container{
+		position:relative;
+	}
+	
+	.bg{
+		position:absolute;
+		/*this will make everything I put in relative to this as long as I set as POSITION ABSOLUTE*/
+	}
+
+	.quote{
+		width:25%;
+		font-size: 30px;
+		margin-top:390px;
+		margin-left: 160px;
+	}
+
+	.buttons{
+			position:absolute;
+/*			height:auto;
+*/		}
+
+		.button1{
+			top:17%;
+			left:17%;
+			height:280px;
+			opacity:0;
+
+		}
+
+	.button2{
+		height:175px;
+		top:4%;
+		opacity:0;
+	}
+
+	.green{
+		cursor:url(http://i177.photobucket.com/albums/w215/PPlessure_/thicon_sparkle.gif), crosshair;
+
+	}
+
+	.red{
+		cursor: url(http://i587.photobucket.com/albums/ss314/TTT_Savethemole/Emoticons/sparkleaa.gif), crosshair;
+	}
+
+
+
+
+
+
+
+
+
+
+

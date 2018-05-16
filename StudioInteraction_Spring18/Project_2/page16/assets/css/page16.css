@@ -1,0 +1,42 @@
+div{
+		box-sizing: border-box;
+		float:left;
+		width:100%;
+		height:100%;
+	}
+
+	.container{
+		position:relative;
+	}
+
+
+	.quote{
+		width:43%;
+		font-size: 30px;
+		margin-top:390px;
+		margin-left: 145px;
+		font-family: helvetica;
+	}
+
+	a {
+		text-decoration: none;
+		color:black;
+	}
+
+	.buttons{
+		position:absolute;
+		left:17%;
+	}
+
+	.hide{
+		opacity: 0;
+	}
+
+		.red{
+			cursor: url(http://i587.photobucket.com/albums/ss314/TTT_Savethemole/Emoticons/sparkleaa.gif), crosshair;
+	}
+
+		.green{
+		cursor:url(http://i177.photobucket.com/albums/w215/PPlessure_/thicon_sparkle.gif), crosshair;
+
+	}

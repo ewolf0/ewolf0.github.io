@@ -1,0 +1,60 @@
+html body{
+
+	}
+
+	div{
+		box-sizing: border-box;
+		float:left;
+		width:100%;
+		height:100%;
+	}
+
+	.container{
+		position:relative;
+	}
+
+	.definition{
+		margin-right: 35%;
+		margin-left: 35%;
+		margin-top: 10%;
+		align-items: center;
+		width:30%;
+	}
+
+
+	div .definition h1{
+		font-size: 45px;
+		font-family: 'Libre Baskerville', serif;
+		font-weight: 700;
+		line-height: 50px;
+	}
+
+	div .definition h2{
+		font-size: 30px;
+		font-family: 'Libre Baskerville', serif;
+		line-height: 45px;
+	}
+
+	div .definition p{
+		font-size: 16px;
+		font-family: 'Libre Baskerville', serif;
+		line-height: 22px;
+	}
+
+	a {
+		text-decoration: none;
+		color:black;
+	}
+
+	.green{
+		cursor:url(http://i177.photobucket.com/albums/w215/PPlessure_/thicon_sparkle.gif), crosshair;
+
+	}
+	.red{
+		cursor: url(http://i587.photobucket.com/albums/ss314/TTT_Savethemole/Emoticons/sparkleaa.gif), crosshair;
+	}
+
+
+
+
+

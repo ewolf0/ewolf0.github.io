@@ -1,0 +1,123 @@
+html body{
+
+	}
+
+	div{
+		box-sizing: border-box;
+		float:left;
+		width:100%;
+		height:100%;
+	}
+
+	.container{
+		position:relative;
+	}
+
+	.word{
+		position: absolute;
+	}
+
+	.thought{
+		top:20px;
+		left:18px;
+		height:100px;
+	}
+
+	.itself{
+		left:570px;
+		top:10px;
+		height:130px;
+	}
+
+	.must{
+		height:100px;
+		top:15px;
+		left:945px;
+	}
+
+	.be{
+		top:180px;
+		height:100px;
+		left:15px;
+	}
+
+	.silent{
+		height:150px;
+		top:160px;
+		left:190px;
+	}
+
+	.if{
+		top:190px;
+		height:80px;
+		left:630px;
+	}
+
+	.it{
+		top:180px;
+		height:95px;
+		left:760px;
+	}
+
+	.is{
+		height:90px;
+		top:187px;
+		left:880px;
+	}
+
+	.to{
+		height:95px;
+		top:187px;
+		left:1010px;
+	}
+
+	.think{
+		height:100px;
+		top:315px;
+		left:10px;
+	}
+
+	.about{
+		height:110px;
+		top:315px;
+		left:380px;
+	}
+
+	.anything{
+		height:125px;
+		top:315px;
+		left:700px;
+	}
+
+	.other{
+		height:140px;
+		top:450px;
+		left:10px;
+	}
+
+	.than{
+		height:120px;
+		top:450px;
+		left:325px;
+
+	}
+
+	.itself2{
+		height:150px;
+		top:450px;
+		left:620px;
+
+	}
+
+	.green{
+		cursor:url(http://i37.photobucket.com/albums/e88/lunchinjenna123/Sparkle.gif), crosshair;
+	}
+
+	.red{
+		cursor: url(http://i587.photobucket.com/albums/ss314/TTT_Savethemole/Emoticons/sparkleaa.gif), crosshair;
+	}
+
+
+
+
+

@@ -1,0 +1,69 @@
+html, body{
+			margin:0;
+			width:100%;
+			height:100%;
+			background-color: black;
+		}
+		div{
+			box-sizing: border-box;
+			float:left;
+			width:100%;
+			height:100%;
+		}
+
+		.container{
+			position:relative;
+		}
+
+		.faces {
+			left:220px;
+			position:absolute;
+			
+		}
+
+		.text{
+		height:10%;
+		width:16%;
+		position: absolute;
+		color:yellow;
+		font-size: 13px;
+		left:47%;
+		top: 87%;
+		font-family: helvetica;
+		}
+
+		.smallbutton{
+			position:absolute;
+			height:auto;
+		}
+
+		.button1{
+			top:510px;
+			left:820px;
+			height: 155px;			
+		}
+
+		.button2{
+			top:340px;
+			left:820px;
+			height: 155px;			
+		}
+
+		.button3{
+			position:absolute;
+			top:0px;
+			left:820px;
+			height: 320px;
+			width:210px;		
+		}
+
+
+		.hide{
+			opacity:0;
+		}
+
+
+		.blue{
+		cursor:url(http://i177.photobucket.com/albums/w215/PPlessure_/thicon_sparkle.gif), crosshair;
+		}
+		

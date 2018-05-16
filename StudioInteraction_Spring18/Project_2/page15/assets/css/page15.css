@@ -1,0 +1,40 @@
+html body{
+	background: url(../img/clouds.png) no-repeat center center fixed;
+	background-size:cover;	
+	}
+
+	div{
+		box-sizing: border-box;
+		float:left;
+		width:100%;
+		height:100%;
+	}
+
+	.container{
+		position:relative;
+	}
+	
+	.bg{
+		position:absolute;
+		/*this will make everything I put in relative to this as long as I set as POSITION ABSOLUTE*/
+	}
+
+	.quote{
+		width:30%;
+		font-size: 30px;
+		margin-top:80px;
+		margin-left: 160px;
+		color: #fffa4e;
+	}
+
+	.button{
+		position:absolute;
+		width:1250px;
+		top:460px;
+		left:0px;
+		opacity: 0;
+	}
+
+	.hover{
+		cursor: url(http://i177.photobucket.com/albums/w215/PPlessure_/thicon_sparkle.gif), crosshair;
+	}
