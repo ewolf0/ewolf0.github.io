@@ -71,6 +71,11 @@ div #intro{
 	width:85%;
 }
 
+div #intro p a{
+	color:blue;
+	text-decoration: none;
+}
+
 div #about1{
 	width:65%;
 }
